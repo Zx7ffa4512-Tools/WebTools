@@ -11,6 +11,7 @@ http://www.objectif-securite.ch/ophcrack.php<br/>
 
 ###cmd5:<br/>
 http://www.cmd5.com/<br/>
+base64:http://tools.jb51.net/tools/base64_decode-gb2312.php
 <br/>
 
 ###Whois:<br/>
