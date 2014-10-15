@@ -67,3 +67,4 @@ ping:
 * 7、http://nmap.online-domain-tools.com/
 * 9、http://www.grayurl.org/
 * 10、http://www.yougetsignal.com/
+* 11、http://www.jb51.net/tools/editplus/ editplus 注册码在线生成
