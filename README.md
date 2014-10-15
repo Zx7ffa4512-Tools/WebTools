@@ -6,10 +6,10 @@ WebTools
 
 ### 加密解密:
 >http://www.objectif-securite.ch/ophcrack.php
->>http://www.cmd5.com/
+>http://www.cmd5.com/
 
 >base64:
->>http://tools.jb51.net/tools/base64_decode-gb2312.php
+>http://tools.jb51.net/tools/base64_decode-gb2312.php
 
 ### 查询:
 whois:
