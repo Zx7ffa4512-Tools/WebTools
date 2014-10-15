@@ -8,6 +8,7 @@ WebTools
 * http://navisec.it/
 * http://tool.lu/
 * http://az0ne.lofter.com/post/31a51a_131960c
+* http://tool.oschina.net/
 
 ### 加密解密:
 * http://www.objectif-securite.ch/ophcrack.php
