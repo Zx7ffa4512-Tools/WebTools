@@ -14,25 +14,34 @@ base64:
 ### 查询:
 whois:
 * http://Who.is
-* ipwhois:
+
+ipwhois:
 * http://tool.chinaz.com/ipWhois/
 * http://cqcounter.com/whois/
+
 Domain Info:
-* https://www.robtex.com
+* https://www.robtex.com/
+
 漏洞:
 * http://www.exploit-db.com/search/
+
 钟馗之眼:
 * http://www.zoomeye.org
+
 佛法:
 * http://fofa.so
+
 撒旦:
 * http://www.shodanhq.com/
+
 ping:
 * http://ping.chinaz.com
+
 旁站查询:
 * http://dns.aizhan.com
 * http://www.114best.com/ip/
 * bing:IP:xx.xx.xxx.xx
+
 网站指纹:
 * http://www.websth.com/ 
 * http://hacksoft.org/cms     
