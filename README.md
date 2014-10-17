@@ -17,6 +17,12 @@ WebTools
 base64:
 * http://tools.jb51.net/tools/base64_decode-gb2312.php
 
+### 在线编码转换
+十六进制转字符串:
+* http://www.bejson.com/tools/0x/
+字符串转十六进制:
+* http://www.convertstring.com/zh_CN/EncodeDecode/HexEncode
+
 ### 查询:
 whois:
 * http://Who.is
