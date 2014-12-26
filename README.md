@@ -46,12 +46,6 @@ Domain Info:
 钟馗之眼:
 * http://www.zoomeye.org
 
-佛法:
-* http://fofa.so
-
-撒旦:
-* http://www.shodanhq.com/
-
 ping:
 * http://ping.chinaz.com
 
@@ -64,6 +58,8 @@ ping:
 * http://www.websth.com/ 
 * http://hacksoft.org/cms     
 * http://whatweb.net/
+* http://fofa.so
+* http://www.shodanhq.com/
 
 ### 图解正则:
 * http://www.regexper.com/
