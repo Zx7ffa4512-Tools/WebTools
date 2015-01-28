@@ -76,3 +76,4 @@ ping:
 * 9、http://www.grayurl.org/
 * 10、http://www.yougetsignal.com/
 * 11、http://www.jb51.net/tools/editplus/ editplus 注册码在线生成
+* 12、http://so.chongbuluo.com/ 搜索大全
