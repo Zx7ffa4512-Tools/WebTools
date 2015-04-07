@@ -14,6 +14,7 @@ WebTools
 
 HASH:
 * http://www.objectif-securite.ch/ophcrack.php
+* http://www.hashkiller.co.uk/ntlm-decrypter.aspx
 * http://www.cmd5.com/
 
 base64:
