@@ -43,6 +43,7 @@ Domain Info:
 
 漏洞:
 * http://www.exploit-db.com/search/
+* http://beebeeto.com/
 
 钟馗之眼:
 * http://www.zoomeye.org
